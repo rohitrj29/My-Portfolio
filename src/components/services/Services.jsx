@@ -36,6 +36,71 @@ function Services() {
             </li>
           </ul>
         </article>
+        <article className='service'>
+          <div className='service__head'>
+            <h3>Web Development</h3>
+
+          </div>
+          <ul className='service__list'>
+            <li>
+              <BiCheck className='service__list-icon'/>
+              <p>Non nostrud consectetur proident aute mollit amet qui.</p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon'/>
+              <p>Non nostrud consectetur proident aute mollit amet qui.</p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon'/>
+              <p>Non nostrud consectetur proident aute mollit amet qui.</p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon'/>
+              <p>Non nostrud consectetur proident aute mollit amet qui.</p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon'/>
+              <p>Non nostrud consectetur proident aute mollit amet qui.</p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon'/>
+              <p>Non nostrud consectetur proident aute mollit amet qui.</p>
+            </li>
+          </ul>
+        </article>
+        <article className='service'>
+          <div className='service__head'>
+            <h3>Blockchain Development</h3>
+
+          </div>
+          <ul className='service__list'>
+            <li>
+              <BiCheck className='service__list-icon'/>
+              <p>Non nostrud consectetur proident aute mollit amet qui.</p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon'/>
+              <p>Non nostrud consectetur proident aute mollit amet qui.</p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon'/>
+              <p>Non nostrud consectetur proident aute mollit amet qui.</p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon'/>
+              <p>Non nostrud consectetur proident aute mollit amet qui.</p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon'/>
+              <p>Non nostrud consectetur proident aute mollit amet qui.</p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon'/>
+              <p>Non nostrud consectetur proident aute mollit amet qui.</p>
+            </li>
+          </ul>
+        </article>
+
       </div>
     </section>
   )
