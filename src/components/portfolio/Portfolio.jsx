@@ -25,7 +25,7 @@ const data=[
   {
     id:3,
     image:IMG3,
-    title: 'Oasis site: BITS Pilani Cultural Fest',
+    title: 'Oasis site: BITS Cultural Fest',
     github: 'https://github.com',
     demo:'https://dribbble.com/Alien_pixels'
   },
