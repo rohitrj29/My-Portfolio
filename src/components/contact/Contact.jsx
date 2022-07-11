@@ -19,7 +19,7 @@ function Contact() {
       e.target.reset();
   };
   return (
-    <section id='Contact'>
+    <section id='contact'>
       <h5>
        Get In Touch
       </h5>
