@@ -11,21 +11,21 @@ function Contact() {
       </h5>
       <h2>Contact Me</h2>
       <div className='container contact__container'>
-        <div className='contact_options'>
-          <article className='contract__option'>
-          <MdOutlineEmail/>
+        <div className='contact__options'>
+          <article className='contact__option'>
+          <MdOutlineEmail className='contact__option-icon'/>
             <h4>Email</h4>
             <h5>rohitrajjkd9@gmail.com</h5>
             <a href='mailto:rohitrajjkd9@gmail.com' target='_blank'>Send a Message</a>
           </article>
-          <article className='contract__option'>
-          <RiMessengerLine/>
+          <article className='contact__option'>
+          <RiMessengerLine className='contact__option-icon'/>
             <h4>Messenger</h4>
             <h5>Rohit Raj</h5>
             <a href='https://m.me/' target='_blank'>Send a Message</a>
           </article>
-          <article className='contract__option'>
-          <BsWhatsapp/>
+          <article className='contact__option'>
+          <BsWhatsapp className='contact__option-icon'/>
             <h4>Whatsapp</h4>
             <h5>+91 6204892005</h5>
             <a href='https://api.whatsapp.com/send?phone=+916204892005' target='_blank'>Send a Message</a>
